@@ -1,0 +1,397 @@
+Country,Presidency,President,Wikipedia_Entry,Took_office,Left_office,Party
+India,1,Rajendra Prasad,http://en.wikipedia.org/wiki/Rajendra_Prasad,26-Jan-50,13-May-62,
+India,2,Sarvepalli Radhakrishnan,http://en.wikipedia.org/wiki/Sarvepalli_Radhakrishnan,13-May-62,13-May-67,
+India,3,Zakir Hussain,http://en.wikipedia.org/wiki/Zakir_Hussain_%28politician%29,13-May-67,3-May-69,
+India,4,Varahagiri Venkata Giri,http://en.wikipedia.org/wiki/V._V._Giri,24-Aug-69,24-Aug-74,
+India,5,Fakhruddin Ali Ahmed,http://en.wikipedia.org/wiki/Fakhruddin_Ali_Ahmed,24-Aug-74,11-Feb-77,
+India,6,Neelam Sanjiva Reddy,http://en.wikipedia.org/wiki/Neelam_Sanjiva_Reddy,25-Jul-77,25-Jul-82,
+India,7,Giani Zail Singh,http://en.wikipedia.org/wiki/Zail_Singh,25-Jul-82,25-Jul-87,
+India,8,Ramaswamy Venkataraman,http://en.wikipedia.org/wiki/R._Venkataraman,25-Jul-87,25-Jul-92,
+India,9,Shankar Dayal Sharma,http://en.wikipedia.org/wiki/Shankar_Dayal_Sharma,25-Jul-92,25-Jul-97,
+India,10,Kocheril Raman Narayanan,http://en.wikipedia.org/wiki/K._R._Narayanan,25-Jul-97,25-Jul-02,
+India,11,A. P. J. Abdul Kalam,http://en.wikipedia.org/wiki/A._P._J._Abdul_Kalam,25-Jul-02,25-Jul-07,
+India,12,Pratibha Patil,http://en.wikipedia.org/wiki/Pratibha_Patil,25-Jul-07,25-Jul-12,
+India,13,Pranab Mukherjee,http://en.wikipedia.org/wiki/Pranab_Mukherjee,25-Jul-12,Incumbent,
+Pakistan,1,Iskander Mirza,,23-Mar-56,27-Oct-58,
+Pakistan,2,Ayub Khan,,27-Oct-58,8-Jun-62,
+Pakistan,3,Yahya Khan,,25-Mar-69,20-Dec-71,
+Pakistan,4,Zulfikar Ali Bhutto,,20-Dec-71,13-Aug-73,
+Pakistan,5,Fazal Ilahi Chaudhry,,14-Aug-73,16-Sep-78,
+Pakistan,6,Muhammad Zia-ul-Haq,,16-Sep-78,17-Aug-88,
+Pakistan,7,Ghulam Ishaq Khan,,17-Aug-88,18-Jul-93,
+Pakistan,8,Wasim Sajjad,,18-Jul-93,14-Nov-93,
+Pakistan,9,Farooq Leghari,,14-Nov-93,2-Dec-97,
+Pakistan,10,Wasim Sajjad,,2-Dec-97,1-Jan-98,
+Pakistan,11,Muhammad Rafiq Tarar,,1-Jan-98,20-Jun-01,
+Pakistan,12,Pervez Musharraf,,20-Jun-01,6-Oct-07,
+Pakistan,13,Muhammad Mian Soomro,,18-Aug-08,9-Sep-08,
+Pakistan,14,Asif Ali Zardari,,9-Sep-08,8-Sep-13,
+Pakistan,15,Mamnoon Hussain,,8-Sep-13,Incumbent,
+People's Republic of China,1,Mao Zedong,,27-Sep-54,27-Apr-59,
+People's Republic of China,2,Liu Shaoqi,,27-Apr-59,31-Oct-68,
+People's Republic of China,3,Li Xiannian,,18-Jun-83,8-Apr-88,
+People's Republic of China,4,Yang Shangkun,,8-Apr-88,27-Mar-93,
+People's Republic of China,5,Jiang Zemin,,27-Mar-93,15-Mar-03,
+People's Republic of China,6,Hu Jintao,,15-Mar-03,14-Mar-13,
+People's Republic of China,7,Xi Jinping,,14-Mar-13,Incumbent,
+Russia,1,Boris Yeltsin,,10-Jul-91,31-Dec-99,
+Russia,2,Vladimir Putin,,31-Dec-99,7-May-08,
+Russia,3,Dmitry Medvedev,,7-May-08,7-May-12,
+Russia,4,Vladimir Putin,,7-May-12,Incumbent,
+Argentina,1,Bernardino Rivadavia,http://en.wikipedia.org/wiki/Bernardino_Rivadavia,8 Feb 1826,7 Jul 1827,
+Argentina,2,Vicente López y Planes,http://en.wikipedia.org/wiki/Vicente_L%C3%B3pez_y_Planes,7 Jul 1827,18 Aug 1827,
+Argentina,3,Justo José de Urquiza,http://en.wikipedia.org/wiki/Justo_Jos%C3%A9_de_Urquiza,5 Mar 1854,5 Mar 1860,
+Argentina,4,Santiago Derqui,http://en.wikipedia.org/wiki/Santiago_Derqui,5 Mar 1860,4 Nov 1861,
+Argentina,5,Juan Esteban Pedernera,http://en.wikipedia.org/wiki/Juan_Esteban_Pedernera,4 Nov 1861,12 Dec 1861,
+Argentina,6,Bartolomé Mitre,http://en.wikipedia.org/wiki/Bartolom%C3%A9_Mitre,12 Dec 1861,12 Oct 1868,
+Argentina,7,Domingo Faustino Sarmiento,http://en.wikipedia.org/wiki/Domingo_Faustino_Sarmiento,12 Oct 1868,12 Oct 1874,
+Argentina,8,Nicolás Avellaneda,http://en.wikipedia.org/wiki/Nicol%C3%A1s_Avellaneda,12 Oct 1874,12 Oct 1880,
+Argentina,9,Julio Argentino Roca,http://en.wikipedia.org/wiki/Julio_Argentino_Roca,12 Oct 1880,12 Oct 1886,
+Argentina,10,Miguel Juárez Celman ,http://en.wikipedia.org/wiki/Miguel_Ju%C3%A1rez_Celman,12 Oct 1886,6 Aug 1890,
+Argentina,11,Carlos Pellegrini ,http://en.wikipedia.org/wiki/Carlos_Pellegrini,6 Aug 1890,12 Oct 1892,
+Argentina,12,Luis Sáenz Peña,http://en.wikipedia.org/wiki/Luis_S%C3%A1enz_Pe%C3%B1a,12 Oct 1892,22 Jan 1895,
+Argentina,13,José Evaristo Uriburu,http://en.wikipedia.org/wiki/Jos%C3%A9_Evaristo_Uriburu,22 Jan 1895,12 Oct 1898,
+Argentina,14,Julio Argentino Roca,http://en.wikipedia.org/wiki/Julio_Argentino_Roca,12 Oct 1898,12-Oct-04,
+Argentina,15,Manuel Quintana,http://en.wikipedia.org/wiki/Manuel_Quintana,12-Oct-04,25-Jan-06,
+Argentina,16,José Figueroa Alcorta,http://en.wikipedia.org/wiki/Jos%C3%A9_Figueroa_Alcorta,25-Jan-06,12-Oct-10,
+Argentina,17,Roque Sáenz Peña,http://en.wikipedia.org/wiki/Roque_S%C3%A1enz_Pe%C3%B1a,12-Oct-10,9-Aug-14,
+Argentina,18,Victorino de la Plaza,http://en.wikipedia.org/wiki/Victorino_de_la_Plaza,9-Aug-14,12-Oct-16,
+Argentina,19,Hipólito Yrigoyen ,http://en.wikipedia.org/wiki/Hip%C3%B3lito_Yrigoyen,12-Oct-16,12-Oct-22,
+Argentina,20,Marcelo Torcuato de Alvear ,http://en.wikipedia.org/wiki/Marcelo_Torcuato_de_Alvear,12-Oct-22,12-Oct-28,
+Argentina,21,Hipólito Yrigoyen ,http://en.wikipedia.org/wiki/Hip%C3%B3lito_Yrigoyen,12-Oct-28,6-Sep-30,
+Argentina,22,José Félix Uriburu,http://en.wikipedia.org/wiki/Jos%C3%A9_F%C3%A9lix_Uriburu,6-Sep-30,20-Feb-32,
+Argentina,23,Agustín Pedro Justo,http://en.wikipedia.org/wiki/Agust%C3%ADn_Pedro_Justo,20-Feb-32,20-Feb-38,
+Argentina,24,Roberto María Ortiz,http://en.wikipedia.org/wiki/Roberto_Mar%C3%ADa_Ortiz,20-Feb-38,27-Jun-42,
+Argentina,25,Ramón Castillo,http://en.wikipedia.org/wiki/Ram%C3%B3n_Castillo,27-Jun-42,4-Jun-43,
+Argentina,26,Arturo Rawson,http://en.wikipedia.org/wiki/Arturo_Rawson,4-Jun-43,7-Jun-43,
+Argentina,27,Pedro Pablo Ramírez,http://en.wikipedia.org/wiki/Pedro_Pablo_Ram%C3%ADrez,7-Jun-43,9-Mar-44,
+Argentina,28,Edelmiro Julián Farrell,http://en.wikipedia.org/wiki/Edelmiro_Juli%C3%A1n_Farrell,11-Mar-44,4-Jun-46,
+Argentina,29,Juan Domingo Perón ,http://en.wikipedia.org/wiki/Juan_Domingo_Per%C3%B3n,4-Jun-46,20-Sep-55,
+Argentina,30,Eduardo Lonardi,http://en.wikipedia.org/wiki/Eduardo_Lonardi,23-Sep-55,13-Nov-55,
+Argentina,31,Pedro Eugenio Aramburu,http://en.wikipedia.org/wiki/Pedro_Eugenio_Aramburu,13-Nov-55,1-May-58,
+Argentina,32,Arturo Frondizi,http://en.wikipedia.org/wiki/Arturo_Frondizi,1-May-58,29-Mar-62,
+Argentina,33,José María Guido,http://en.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_Guido,29-Mar-62,12-Oct-63,
+Argentina,34,Arturo Umberto Illia,http://en.wikipedia.org/wiki/Arturo_Umberto_Illia,12-Oct-63,28-Jun-66,
+Argentina,35,Juan Carlos Onganía,http://en.wikipedia.org/wiki/Juan_Carlos_Ongan%C3%ADa,29-Jun-66,8-Jun-70,
+Argentina,36,Roberto M. Levingston,http://en.wikipedia.org/wiki/Roberto_M._Levingston,8-Jun-70,23-May-71,
+Argentina,37,Alejandro A. Lanusse,http://en.wikipedia.org/wiki/Alejandro_A._Lanusse,26-May-71,25-May-73,
+Argentina,38,Héctor José Cámpora,http://en.wikipedia.org/wiki/H%C3%A9ctor_Jos%C3%A9_C%C3%A1mpora,25-May-73,13-Jul-73,
+Argentina,39,Raúl Alberto Lastiri,http://en.wikipedia.org/wiki/Ra%C3%BAl_Alberto_Lastiri,13-Jul-73,12-Oct-73,
+Argentina,40,Juan Domingo Perón,http://en.wikipedia.org/wiki/Juan_Domingo_Per%C3%B3n,12-Oct-73,30-Jun-74,
+Argentina,41,Isabel Martínez de Perón,http://en.wikipedia.org/wiki/Isabel_Mart%C3%ADnez_de_Per%C3%B3n,30-Jun-74,24-Mar-76,
+Argentina,42,Jorge Rafael Videla,http://en.wikipedia.org/wiki/Jorge_Rafael_Videla,29-Mar-76,29-Mar-81,
+Argentina,43,Roberto Eduardo Viola,http://en.wikipedia.org/wiki/Roberto_Eduardo_Viola,29-Mar-81,12-Dec-81,
+Argentina,44,Leopoldo Galtieri,http://en.wikipedia.org/wiki/Leopoldo_Galtieri,22-Dec-81,17-Jun-82,
+Argentina,45,Reynaldo Bignone,http://en.wikipedia.org/wiki/Reynaldo_Bignone,1-Jul-82,10-Dec-83,
+Argentina,46,Raúl Alfonsín,http://en.wikipedia.org/wiki/Ra%C3%BAl_Alfons%C3%ADn,10-Dec-83,8-Jul-89,
+Argentina,47,Carlos Menem ,http://en.wikipedia.org/wiki/Carlos_Menem,8-Jul-89,10-Dec-99,
+Argentina,48,Fernando de la Rúa,http://en.wikipedia.org/wiki/Fernando_de_la_R%C3%BAa,10-Dec-99,20-Dec-01,
+Argentina,49,Adolfo Rodríguez Saá,http://en.wikipedia.org/wiki/Adolfo_Rodr%C3%ADguez_Sa%C3%A1,22-Dec-01,30-Dec-01,
+Argentina,50,Eduardo Duhalde,http://en.wikipedia.org/wiki/Eduardo_Duhalde,2-Jan-02,25-May-03,
+Argentina,51,Néstor Kirchner,http://en.wikipedia.org/wiki/N%C3%A9stor_Kirchner,25-May-03,10-Dec-07,
+Argentina,52,Cristina Fernández de Kirchner,http://en.wikipedia.org/wiki/Cristina_Fern%C3%A1ndez_de_Kirchner,10-Dec-07,Incumbent,
+Australia,1,Malcolm Turnbull,,13-Dec-00,8-Dec-08,
+Australia,2,Kim Beazley,,13-Dec-08,Incumbent,
+Sri Lanka,1,William Gopallawa,http://en.wikipedia.org/wiki/William_Gopallawa,22-May-72,4-Feb-78,Non-party
+Sri Lanka,2,Junius Richard Jayewardene,http://en.wikipedia.org/wiki/Junius_Richard_Jayewardene,4-Feb-78,2-Jan-89,United National Party
+Sri Lanka,3,Ranasinghe Premadasa,http://en.wikipedia.org/wiki/Ranasinghe_Premadasa,2-Jan-89,1-May-93,United National Party
+Sri Lanka,4,Dingiri Banda Wijetunga,http://en.wikipedia.org/wiki/Dingiri_Banda_Wijetunga,2-May-93,12-Nov-94,United National Party
+Sri Lanka,5,Chandrika Kumaratunga,http://en.wikipedia.org/wiki/Chandrika_Kumaratunga,12-Nov-94,19-Nov-05,Sri Lanka Freedom Party
+Sri Lanka,6,Mahinda Rajapaksa,http://en.wikipedia.org/wiki/Mahinda_Rajapaksa,19-Nov-05,Incumbent,Sri Lanka Freedom Party
+South Africa,1,Nelson Rolihlahla Mandela,http://en.wikipedia.org/wiki/Nelson_Mandela,10-May-94,16-Jun-99,African National Congress
+South Africa,2,Thabo Mvuyelwa Mbeki,http://en.wikipedia.org/wiki/Thabo_Mbeki,16-Jun-99,24-Sep-08,African National Congress
+South Africa,3,Kgalema Petrus Motlanthe,http://en.wikipedia.org/wiki/Kgalema_Motlanthe,25-Sep-08,9-May-09,African National Congress
+South Africa,4,Jacob Gedleyihlekisa Zuma,http://en.wikipedia.org/wiki/Jacob_Zuma,9-May-09,Incumbent,African National Congress
+Indonesia,1,Sukarno,http://en.wikipedia.org/wiki/Sukarno,18-Aug-45,12-Mar-67,Non-Partisan
+Indonesia,2,Suharto,http://en.wikipedia.org/wiki/Suharto,12-Mar-67,21-May-98,Golkar with military support
+Indonesia,3,Bacharuddin Jusuf Habibie,http://en.wikipedia.org/wiki/B._J._Habibie,21-May-98,20-Oct-99,Golkar
+Indonesia,4,Abdurrahman Wahid,http://en.wikipedia.org/wiki/Abdurrahman_Wahid,20-Oct-99,23-Jul-01,National Awakening Party
+Indonesia,5,Megawati Sukarnoputri,http://en.wikipedia.org/wiki/Megawati_Sukarnoputri,23-Jul-01,20-Oct-04,Indonesian Democratic Party – Struggle
+Indonesia,6,Susilo Bambang Yudhoyono,http://en.wikipedia.org/wiki/Susilo_Bambang_Yudhoyono,20-Oct-04,Incumbent,Democratic Party
+Portugal,1,Manuel de Arriaga,http://en.wikipedia.org/wiki/Manuel_de_Arriaga,24-Aug-11,26-May-15,Republican
+Portugal,2,Teófilo Braga,,29-May-15,5-Aug-15,Democratic
+Portugal,3,Bernardino Machado,http://en.wikipedia.org/wiki/Bernardino_Machado,6-Aug-15,5-Dec-17,Democratic
+Portugal,4,Sidónio Pais,,28-Apr-18,14-Dec-18,National Republican
+Portugal,5,João do Canto e Castro,,14-Dec-18,5-Oct-19,National Republican
+Portugal,6,António José de Almeida,http://en.wikipedia.org/wiki/Ant%C3%B3nio_Jos%C3%A9_de_Almeida,5-Oct-19,5-Oct-23,Evolutionist Republican
+Portugal,7,Manuel Teixeira Gomes,http://en.wikipedia.org/wiki/Manuel_Teixeira_Gomes,6-Oct-23,11-Dec-25,Democratic
+Portugal,8,Bernardino Machado,http://en.wikipedia.org/wiki/Bernardino_Machado,11-Dec-25,31-May-26,Democratic
+Portugal,9,José Mendes Cabeçadas,,31-May-26,19-Jun-26,Military officer
+Portugal,10,Gomes da Costa,,19-Jun-26,9-Jul-26,Military officer
+Portugal,11,Óscar Carmona,http://en.wikipedia.org/wiki/%C3%93scar_Carmona,15-Apr-28,18-Apr-51,Military officer
+Portugal,12,Francisco Craveiro Lopes,http://en.wikipedia.org/wiki/Francisco_Craveiro_Lopes,21-Jul-51,9-Aug-58,National Union
+Portugal,13,Américo Tomás,http://en.wikipedia.org/wiki/Am%C3%A9rico_Tom%C3%A1s,9-Aug-58,9-Aug-65,National Union
+Portugal,14,António de Spínola,,15-May-74,30-Sep-74,Military officer
+Portugal,15,Francisco da Costa Gomes,http://en.wikipedia.org/wiki/Francisco_da_Costa_Gomes,30-Sep-74,13-Jul-76,Military officer
+Portugal,16,António Ramalho Eanes,http://en.wikipedia.org/wiki/Ant%C3%B3nio_Ramalho_Eanes,14-Jul-76,9-Mar-86,Military officer
+Portugal,17,Mário Soares,http://en.wikipedia.org/wiki/M%C3%A1rio_Soares,9-Mar-86,9-Mar-96,Socialist
+Portugal,18,Jorge Sampaio,http://en.wikipedia.org/wiki/Jorge_Sampaio,9-Mar-96,9-Mar-06,Socialist
+Portugal,19,Aníbal Cavaco Silva,http://en.wikipedia.org/wiki/An%C3%ADbal_Cavaco_Silva,9-Mar-06,Incumbent,Social Democratic
+France,1,Louis-Napoléon Bonaparte,http://en.wikipedia.org/wiki/Napol%C3%A9on_III,20 December 1848,2 December 1852,Bonapartist
+France,2,Adolphe Thiers,http://en.wikipedia.org/wiki/Adolphe_Thiers,31 August 1871,24 May 1873,former Orléanist
+France,3,"Patrice de Mac-Mahon, duc de Magenta","http://en.wikipedia.org/wiki/Patrice_de_Mac-Mahon,_Duke_of_Magenta",24 May 1873,30 January 1879,Legitimist
+France,4,Jules Grévy,,30 January 1879,2 December 1887,Opportunist Republican
+France,5,Marie François Sadi Carnot,http://en.wikipedia.org/wiki/Marie_Fran%C3%A7ois_Sadi_Carnot,3 December 1887,25 June 1894,Opportunist Republican
+France,6,Jean Casimir-Perier,http://en.wikipedia.org/wiki/Jean_Casimir-Perier,27 June 1894,16 January 1895,Opportunist Republican
+France,7,Félix Faure,http://en.wikipedia.org/wiki/F%C3%A9lix_Faure,17 January 1895,16 February 1899,Opportunist Republican
+France,8,Émile Loubet,http://en.wikipedia.org/wiki/%C3%89mile_Loubet,18 February 1899,18-Feb-06,Democratic Republican Alliance
+France,9,Armand Fallières,http://en.wikipedia.org/wiki/Armand_Falli%C3%A8res,18-Feb-06,18-Feb-13,Opportunist Republican
+France,10,Raymond Poincaré,http://en.wikipedia.org/wiki/Raymond_Poincar%C3%A9,18-Feb-13,18-Feb-20,PRD-ARD
+France,11,Paul Deschanel,http://en.wikipedia.org/wiki/Paul_Deschanel,18-Feb-20,21-Sep-20,ARD-PRDS
+France,12,Alexandre Millerand,http://en.wikipedia.org/wiki/Alexandre_Millerand,23-Sep-20,11-Jun-24,Independent
+France,13,Gaston Doumergue,http://en.wikipedia.org/wiki/Gaston_Doumergue,13-Jun-24,13-Jun-31,Radical
+France,14,Paul Doumer,http://en.wikipedia.org/wiki/Paul_Doumer,13-Jun-31,7-May-32,Radical
+France,15,Albert Lebrun,http://en.wikipedia.org/wiki/Albert_Francois_Lebrun,10-May-32,11-Jul-40,Democratic Alliance
+France,16,Vincent Auriol,http://en.wikipedia.org/wiki/Vincent_Auriol,16-Jan-47,16-Jan-54,French Section of the Workers' International
+France,17,René Coty,http://en.wikipedia.org/wiki/Ren%C3%A9_Coty,16-Jan-54,8-Jan-59,National Centre of Independents and Peasants
+France,18,Charles de Gaulle,http://en.wikipedia.org/wiki/Charles_de_Gaulle,8-Jan-59,28-Apr-69,Union for the New Republic
+France,0,Alain Poher,http://en.wikipedia.org/wiki/Alain_Poher,28-Apr-69,20-Jun-69,Democratic Centre
+France,19,Georges Pompidou,http://en.wikipedia.org/wiki/Georges_Pompidou,20-Jun-69,2-Apr-74,Union for the Defence of the Republic
+France,0,Alain Poher,http://en.wikipedia.org/wiki/Alain_Poher,2-Apr-74,27-May-74,Democratic Centre
+France,20,Valéry Giscard d'Estaing,http://en.wikipedia.org/wiki/Val%C3%A9ry_Giscard_d%27Estaing,27-May-74,21-May-81,Independent Republicans (until 1977)
+France,21,François Mitterrand,http://en.wikipedia.org/wiki/Fran%C3%A7ois_Mitterrand,21-May-81,17-May-95,Socialist Party
+France,22,Jacques Chirac,http://en.wikipedia.org/wiki/Jacques_Chirac,17-May-95,16-May-07,Rally for the Republic (until 2002)
+France,23,Nicolas Sarkozy,http://en.wikipedia.org/wiki/Nicolas_Sarkozy,16-May-07,15-May-12,Union for a Popular Movement
+France,24,François Hollande,http://en.wikipedia.org/wiki/Fran%C3%A7ois_Hollande,15-May-12,Incumbent,Socialist Party
+Switzerland,1,Jonas Furrer,http://en.wikipedia.org/wiki/Jonas_Furrer,1848,1848,
+Switzerland,2,Henri Druey,http://en.wikipedia.org/wiki/Henri_Druey,1850,1850,
+Switzerland,3,Josef Munzinger,http://en.wikipedia.org/wiki/Josef_Munzinger,1851,1851,
+Switzerland,4,Jonas Furrer,http://en.wikipedia.org/wiki/Jonas_Furrer,1852,1852,
+Switzerland,5,Wilhelm Matthias Naeff,http://en.wikipedia.org/wiki/Wilhelm_Matthias_Naeff,1853,1853,
+Switzerland,6,Friedrich Frey-Herosé,http://en.wikipedia.org/wiki/Friedrich_Frey-Heros%C3%A9,1854,1854,
+Switzerland,7,Jonas Furrer,http://en.wikipedia.org/wiki/Jonas_Furrer,1855,1855,
+Switzerland,8,Jakob Stämpfli,http://en.wikipedia.org/wiki/Jakob_St%C3%A4mpfli,1856,1856,
+Switzerland,9,Constant Fornerod,http://en.wikipedia.org/wiki/Constant_Fornerod,1857,1857,
+Switzerland,10,Jonas Furrer,http://en.wikipedia.org/wiki/Jonas_Furrer,1858,1858,
+Switzerland,11,Jakob Stämpfli,http://en.wikipedia.org/wiki/Jakob_St%C3%A4mpfli,1859,1859,
+Switzerland,12,Friedrich Frey-Herosé,http://en.wikipedia.org/wiki/Friedrich_Frey-Heros%C3%A9,1860,1860,
+Switzerland,13,Melchior Josef Martin Knüsel,http://en.wikipedia.org/wiki/Melchior_Josef_Martin_Kn%C3%BCsel,1861,1861,
+Switzerland,14,Jakob Stämpfli,http://en.wikipedia.org/wiki/Jakob_St%C3%A4mpfli,1862,1862,
+Switzerland,15,Constant Fornerod,http://en.wikipedia.org/wiki/Constant_Fornerod,1863,1863,
+Switzerland,16,Jakob Dubs,http://en.wikipedia.org/wiki/Jakob_Dubs,1864,1864,
+Switzerland,17,Karl Schenk,http://en.wikipedia.org/wiki/Karl_Schenk,1865,1865,
+Switzerland,18,Melchior Josef Martin Knüsel,http://en.wikipedia.org/wiki/Melchior_Josef_Martin_Kn%C3%BCsel,1866,1866,
+Switzerland,19,Constant Fornerod,http://en.wikipedia.org/wiki/Constant_Fornerod,1867,1867,
+Switzerland,20,Jakob Dubs,http://en.wikipedia.org/wiki/Jakob_Dubs,1868,1868,
+Switzerland,21,Emil Welti,http://en.wikipedia.org/wiki/Emil_Welti,1869,1869,
+Switzerland,22,Jakob Dubs,http://en.wikipedia.org/wiki/Jakob_Dubs,1870,1870,
+Switzerland,23,Karl Schenk,http://en.wikipedia.org/wiki/Karl_Schenk,1871,1871,
+Switzerland,24,Emil Welti,http://en.wikipedia.org/wiki/Emil_Welti,1872,1872,
+Switzerland,25,Paul Cérésole,http://en.wikipedia.org/wiki/Paul_C%C3%A9r%C3%A9sole,1873,1873,
+Switzerland,26,Karl Schenk,http://en.wikipedia.org/wiki/Karl_Schenk,1874,1874,
+Switzerland,27,Johann Jakob Scherer,http://en.wikipedia.org/wiki/Johann_Jakob_Scherer,1875,1875,
+Switzerland,28,Emil Welti,http://en.wikipedia.org/wiki/Emil_Welti,1876,1876,
+Switzerland,29,Joachim Heer,http://en.wikipedia.org/wiki/Joachim_Heer,1877,1877,
+Switzerland,30,Karl Schenk,http://en.wikipedia.org/wiki/Karl_Schenk,1878,1878,
+Switzerland,31,Bernhard Hammer,http://en.wikipedia.org/wiki/Bernhard_Hammer,1879,1879,
+Switzerland,32,Emil Welti,http://en.wikipedia.org/wiki/Emil_Welti,1880,1880,
+Switzerland,33,Numa Droz,http://en.wikipedia.org/wiki/Numa_Droz,1881,1881,
+Switzerland,34,Simeon Bavier,http://en.wikipedia.org/wiki/Simeon_Bavier,1882,1882,
+Switzerland,35,Louis Ruchonnet,http://en.wikipedia.org/wiki/Louis_Ruchonnet,1883,1883,
+Switzerland,36,Emil Welti,http://en.wikipedia.org/wiki/Emil_Welti,1884,1884,
+Switzerland,37,Karl Schenk,http://en.wikipedia.org/wiki/Karl_Schenk,1885,1885,
+Switzerland,38,Adolf Deucher,http://en.wikipedia.org/wiki/Adolf_Deucher,1886,1886,
+Switzerland,39,Numa Droz,http://en.wikipedia.org/wiki/Numa_Droz,1887,1887,
+Switzerland,40,Wilhelm Hertenstein,http://en.wikipedia.org/wiki/Wilhelm_Hertenstein,1888,1888,
+Switzerland,41,Bernhard Hammer,http://en.wikipedia.org/wiki/Bernhard_Hammer,1888,1888,
+Switzerland,42,Louis Ruchonnet,http://en.wikipedia.org/wiki/Louis_Ruchonnet,1890,1890,
+Switzerland,43,Emil Welti,http://en.wikipedia.org/wiki/Emil_Welti,1891,1891,
+Switzerland,44,Walter Hauser,http://en.wikipedia.org/wiki/Walter_Hauser,1892,1892,
+Switzerland,45,Karl Schenk,http://en.wikipedia.org/wiki/Karl_Schenk,1893,1893,
+Switzerland,46,Emil Frey,http://en.wikipedia.org/wiki/Emil_Frey,1894,1894,
+Switzerland,47,Josef Zemp,http://en.wikipedia.org/wiki/Josef_Zemp,1895,1895,
+Switzerland,48,Adrien Lachenal,http://en.wikipedia.org/wiki/Adrien_Lachenal,1896,1896,
+Switzerland,49,Adolf Deucher,http://en.wikipedia.org/wiki/Adolf_Deucher,1897,1897,
+Switzerland,50,Eugène Ruffy,http://en.wikipedia.org/wiki/Eug%C3%A8ne_Ruffy,1898,1898,
+Switzerland,51,Eduard Müller,http://en.wikipedia.org/wiki/Eduard_M%C3%BCller_%28Swiss_politician%29,1899,1899,
+Switzerland,52,Walter Hauser,http://en.wikipedia.org/wiki/Walter_Hauser,1900,1900,
+Switzerland,53,Ernst Brenner,http://en.wikipedia.org/wiki/Ernst_Brenner,1901,1901,
+Switzerland,54,Josef Zemp,http://en.wikipedia.org/wiki/Josef_Zemp,1902,1902,
+Switzerland,55,Adolf Deucher,http://en.wikipedia.org/wiki/Adolf_Deucher,1903,1903,
+Switzerland,56,Robert Comtesse,http://en.wikipedia.org/wiki/Robert_Comtesse,1904,1904,
+Switzerland,57,Marc-Emile Ruchet,http://en.wikipedia.org/wiki/Marc-Emile_Ruchet,1905,1905,
+Switzerland,58,Ludwig Forrer,http://en.wikipedia.org/wiki/Ludwig_Forrer,1906,1906,
+Switzerland,59,Eduard Müller,http://en.wikipedia.org/wiki/Eduard_M%C3%BCller_%28Swiss_politician%29,1907,1907,
+Switzerland,60,Ernst Brenner,http://en.wikipedia.org/wiki/Ernst_Brenner,1908,1908,
+Switzerland,61,Adolf Deucher,http://en.wikipedia.org/wiki/Adolf_Deucher,1909,1909,
+Switzerland,62,Robert Comtesse,http://en.wikipedia.org/wiki/Robert_Comtesse,1910,1910,
+Switzerland,63,Marc-Emile Ruchet,http://en.wikipedia.org/wiki/Marc-Emile_Ruchet,1911,1911,
+Switzerland,64,Ludwig Forrer,http://en.wikipedia.org/wiki/Ludwig_Forrer,1912,1912,
+Switzerland,65,Eduard Müller,http://en.wikipedia.org/wiki/Eduard_M%C3%BCller_%28Swiss_politician%29,1913,1913,
+Switzerland,66,Arthur Hoffmann,http://en.wikipedia.org/wiki/Arthur_Hoffmann_%28politician%29,1914,1914,
+Switzerland,67,Giuseppe Motta,http://en.wikipedia.org/wiki/Giuseppe_Motta,1915,1915,
+Switzerland,68,Camille Decoppet,http://en.wikipedia.org/wiki/Camille_Decoppet,1916,1916,
+Switzerland,69,Edmund Schulthess,http://en.wikipedia.org/wiki/Edmund_Schulthess,1917,1917,
+Switzerland,70,Felix Calonder,http://en.wikipedia.org/wiki/Felix_Calonder,1918,1918,
+Switzerland,71,Gustave Ador,http://en.wikipedia.org/wiki/Gustave_Ador,1919,1919,
+Switzerland,72,Giuseppe Motta,http://en.wikipedia.org/wiki/Giuseppe_Motta,1920,1920,
+Switzerland,73,Edmund Schulthess,http://en.wikipedia.org/wiki/Edmund_Schulthess,1921,1921,
+Switzerland,74,Robert Haab,http://en.wikipedia.org/wiki/Robert_Haab,1922,1922,
+Switzerland,75,Karl Scheurer,http://en.wikipedia.org/wiki/Karl_Scheurer,1923,1923,
+Switzerland,76,Ernst Chuard,http://en.wikipedia.org/wiki/Ernst_Chuard,1924,1924,
+Switzerland,77,Jean-Marie Musy,http://en.wikipedia.org/wiki/Jean-Marie_Musy,1925,1925,
+Switzerland,78,Heinrich Häberlin,http://en.wikipedia.org/wiki/Heinrich_H%C3%A4berlin,1926,1926,
+Switzerland,79,Giuseppe Motta,http://en.wikipedia.org/wiki/Giuseppe_Motta,1927,1927,
+Switzerland,80,Edmund Schulthess,http://en.wikipedia.org/wiki/Edmund_Schulthess,1928,1928,
+Switzerland,81,Robert Haab,http://en.wikipedia.org/wiki/Robert_Haab,1929,1929,
+Switzerland,82,Jean-Marie Musy,http://en.wikipedia.org/wiki/Jean-Marie_Musy,1930,1930,
+Switzerland,83,Heinrich Häberlin,http://en.wikipedia.org/wiki/Heinrich_H%C3%A4berlin,1931,1931,
+Switzerland,84,Giuseppe Motta,http://en.wikipedia.org/wiki/Giuseppe_Motta,1932,1932,
+Switzerland,85,Edmund Schulthess,http://en.wikipedia.org/wiki/Edmund_Schulthess,1933,1933,
+Switzerland,86,Marcel Pilet-Golaz,http://en.wikipedia.org/wiki/Marcel_Pilet-Golaz,1934,1934,
+Switzerland,87,Rudolf Minger,http://en.wikipedia.org/wiki/Rudolf_Minger,1935,1935,
+Switzerland,88,Albert Meyer,http://en.wikipedia.org/wiki/Albert_Meyer_%28politician%29,1936,1936,
+Switzerland,89,Giuseppe Motta,http://en.wikipedia.org/wiki/Giuseppe_Motta,1937,1937,
+Switzerland,90,Johannes Baumann,http://en.wikipedia.org/wiki/Johannes_Baumann,1938,1938,
+Switzerland,91,Philipp Etter,http://en.wikipedia.org/wiki/Philipp_Etter,1939,1939,
+Switzerland,92,Marcel Pilet-Golaz,http://en.wikipedia.org/wiki/Marcel_Pilet-Golaz,1940,1940,
+Switzerland,93,Ernst Wetter,http://en.wikipedia.org/wiki/Ernst_Wetter,1941,1941,
+Switzerland,94,Philipp Etter,http://en.wikipedia.org/wiki/Philipp_Etter,1942,1942,
+Switzerland,95,Enrico Celio,http://en.wikipedia.org/wiki/Enrico_Celio,1943,1943,
+Switzerland,96,Walter Stampfli,http://en.wikipedia.org/wiki/Walter_Stampfli,1944,1944,
+Switzerland,97,Eduard von Steiger,http://en.wikipedia.org/wiki/Eduard_von_Steiger,1945,1945,
+Switzerland,98,Karl Kobelt,http://en.wikipedia.org/wiki/Karl_Kobelt,1946,1946,
+Switzerland,99,Philipp Etter,http://en.wikipedia.org/wiki/Philipp_Etter,1947,1947,
+Switzerland,100,Enrico Celio,http://en.wikipedia.org/wiki/Enrico_Celio,1948,1948,
+Switzerland,101,Ernst Nobs,http://en.wikipedia.org/wiki/Ernst_Nobs,1949,1949,
+Switzerland,102,Max Petitpierre,http://en.wikipedia.org/wiki/Max_Petitpierre,1950,1950,
+Switzerland,103,Eduard von Steiger,http://en.wikipedia.org/wiki/Eduard_von_Steiger,1951,1951,
+Switzerland,104,Karl Kobelt,http://en.wikipedia.org/wiki/Karl_Kobelt,1952,1952,
+Switzerland,105,Philipp Etter,http://en.wikipedia.org/wiki/Philipp_Etter,1953,1953,
+Switzerland,106,Rodolphe Rubattel,http://en.wikipedia.org/wiki/Rodolphe_Rubattel,1954,1954,
+Switzerland,107,Max Petitpierre,http://en.wikipedia.org/wiki/Max_Petitpierre,1955,1955,
+Switzerland,108,Markus Feldmann,http://en.wikipedia.org/wiki/Markus_Feldmann,1956,1956,
+Switzerland,109,Hans Streuli,http://en.wikipedia.org/wiki/Hans_Streuli,1957,1957,
+Switzerland,110,Thomas Holenstein,http://en.wikipedia.org/wiki/Thomas_Holenstein,1958,1958,
+Switzerland,111,Paul Chaudet,http://en.wikipedia.org/wiki/Paul_Chaudet,1959,1959,
+Switzerland,112,Max Petitpierre,http://en.wikipedia.org/wiki/Max_Petitpierre,1960,1960,
+Switzerland,113,Friedrich Traugott Wahlen,http://en.wikipedia.org/wiki/Friedrich_Traugott_Wahlen,1961,1961,
+Switzerland,114,Paul Chaudet,http://en.wikipedia.org/wiki/Paul_Chaudet,1962,1962,
+Switzerland,115,Willy Spühler,http://en.wikipedia.org/wiki/Willy_Sp%C3%BChler,1963,1963,
+Switzerland,116,Ludwig von Moos,http://en.wikipedia.org/wiki/Ludwig_von_Moos,1964,1964,
+Switzerland,117,Hans-Peter Tschudi,http://en.wikipedia.org/wiki/Hans-Peter_Tschudi,1965,1965,
+Switzerland,118,Hans Schaffner,http://en.wikipedia.org/wiki/Hans_Schaffner,1966,1966,
+Switzerland,119,Roger Bonvin,http://en.wikipedia.org/wiki/Roger_Bonvin,1967,1967,
+Switzerland,120,Willy Spühler,http://en.wikipedia.org/wiki/Willy_Sp%C3%BChler,1968,1968,
+Switzerland,121,Ludwig von Moos,http://en.wikipedia.org/wiki/Ludwig_von_Moos,1969,1969,
+Switzerland,122,Hans-Peter Tschudi,http://en.wikipedia.org/wiki/Hans-Peter_Tschudi,1970,1970,
+Switzerland,123,Rudolf Gnägi,http://en.wikipedia.org/wiki/Rudolf_Gn%C3%A4gi,1971,1971,
+Switzerland,124,Nello Celio,http://en.wikipedia.org/wiki/Nello_Celio,1972,1972,
+Switzerland,125,Roger Bonvin,http://en.wikipedia.org/wiki/Roger_Bonvin,1973,1973,
+Switzerland,126,Ernst Brugger,http://en.wikipedia.org/wiki/Ernst_Brugger,1974,1974,
+Switzerland,127,Pierre Graber,http://en.wikipedia.org/wiki/Pierre_Graber,1975,1975,
+Switzerland,128,Rudolf Gnägi,http://en.wikipedia.org/wiki/Rudolf_Gn%C3%A4gi,1976,1976,
+Switzerland,129,Kurt Furgler,http://en.wikipedia.org/wiki/Kurt_Furgler,1977,1977,
+Switzerland,130,Willy Ritschard,http://en.wikipedia.org/wiki/Willy_Ritschard,1978,1978,
+Switzerland,131,Hans Hürlimann,http://en.wikipedia.org/wiki/Hans_H%C3%BCrlimann,1979,1979,
+Switzerland,132,Georges-André Chevallaz,http://en.wikipedia.org/wiki/Georges-Andr%C3%A9_Chevallaz,1980,1980,
+Switzerland,133,Kurt Furgler,http://en.wikipedia.org/wiki/Kurt_Furgler,1981,1981,
+Switzerland,134,Fritz Honegger,http://en.wikipedia.org/wiki/Fritz_Honegger,1982,1982,
+Switzerland,135,Pierre Aubert,http://en.wikipedia.org/wiki/Pierre_Aubert,1983,1983,
+Switzerland,136,Leon Schlumpf,http://en.wikipedia.org/wiki/Leon_Schlumpf,1984,1984,
+Switzerland,137,Kurt Furgler,http://en.wikipedia.org/wiki/Kurt_Furgler,1985,1985,
+Switzerland,138,Alphons Egli,http://en.wikipedia.org/wiki/Alphons_Egli,1986,1986,
+Switzerland,139,Pierre Aubert,http://en.wikipedia.org/wiki/Pierre_Aubert,1987,1987,
+Switzerland,140,Otto Stich,http://en.wikipedia.org/wiki/Otto_Stich,1988,1988,
+Switzerland,141,Jean-Pascal Delamuraz,http://en.wikipedia.org/wiki/Jean-Pascal_Delamuraz,1989,1989,
+Switzerland,142,Arnold Koller,http://en.wikipedia.org/wiki/Arnold_Koller,1990,1990,
+Switzerland,143,Flavio Cotti,http://en.wikipedia.org/wiki/Flavio_Cotti,1991,1991,
+Switzerland,144,René Felber,http://en.wikipedia.org/wiki/Ren%C3%A9_Felber,1992,1992,
+Switzerland,145,Adolf Ogi,http://en.wikipedia.org/wiki/Adolf_Ogi,1993,1993,
+Switzerland,146,Otto Stich,http://en.wikipedia.org/wiki/Otto_Stich,1994,1994,
+Switzerland,147,Kaspar Villiger,http://en.wikipedia.org/wiki/Kaspar_Villiger,1995,1995,
+Switzerland,148,Jean-Pascal Delamuraz,http://en.wikipedia.org/wiki/Jean-Pascal_Delamuraz,1996,1996,
+Switzerland,149,Arnold Koller,http://en.wikipedia.org/wiki/Arnold_Koller,1997,1997,
+Switzerland,150,Flavio Cotti,http://en.wikipedia.org/wiki/Flavio_Cotti,1998,1998,
+Switzerland,151,Ruth Dreifuss,http://en.wikipedia.org/wiki/Ruth_Dreifuss,1999,1999,
+Switzerland,152,Adolf Ogi,http://en.wikipedia.org/wiki/Adolf_Ogi,2000,2000,
+Switzerland,153,Moritz Leuenberger,http://en.wikipedia.org/wiki/Moritz_Leuenberger,2001,2001,
+Switzerland,154,Kaspar Villiger,http://en.wikipedia.org/wiki/Kaspar_Villiger,2002,2002,
+Switzerland,155,Pascal Couchepin,http://en.wikipedia.org/wiki/Pascal_Couchepin,2003,2003,
+Switzerland,156,Joseph Deiss,http://en.wikipedia.org/wiki/Joseph_Deiss,2004,2004,
+Switzerland,157,Samuel Schmid,http://en.wikipedia.org/wiki/Samuel_Schmid,2005,2005,
+Switzerland,158,Moritz Leuenberger,http://en.wikipedia.org/wiki/Moritz_Leuenberger,2006,2006,
+Switzerland,159,Micheline Calmy-Rey,http://en.wikipedia.org/wiki/Micheline_Calmy-Rey,2007,2007,
+Switzerland,160,Pascal Couchepin,http://en.wikipedia.org/wiki/Pascal_Couchepin,2008,2008,
+Switzerland,161,Hans-Rudolf Merz,http://en.wikipedia.org/wiki/Hans-Rudolf_Merz,2009,2009,
+Switzerland,162,Doris Leuthard,http://en.wikipedia.org/wiki/Doris_Leuthard,2010,2010,
+Switzerland,163,Micheline Calmy-Rey,http://en.wikipedia.org/wiki/Micheline_Calmy-Rey,2011,2011,
+Switzerland,164,Eveline Widmer-Schlumpf,http://en.wikipedia.org/wiki/Eveline_Widmer-Schlumpf,2012,2012,
+Switzerland,165,Ueli Maurer,http://en.wikipedia.org/wiki/Ueli_Maurer,2013,2013,
+Italy,1,nrico De Nicola ,http://en.wikipedia.org/wiki/Enrico_De_Nicola,1-Jul-46,12-May-48,Italian Liberal Party
+Italy,2,Luigi Einaudi,http://en.wikipedia.org/wiki/Luigi_Einaudi,12-May-48,11-May-55,Italian Liberal Party
+Italy,3,Giovanni Gronchi,http://en.wikipedia.org/wiki/Giovanni_Gronchi,11-May-55,11-May-62,Christian Democracy
+Italy,4,Antonio Segni,http://en.wikipedia.org/wiki/Antonio_Segni,11-May-62,6-Dec-64,Christian Democracy
+Italy,5,Giuseppe Saragat,http://en.wikipedia.org/wiki/Giuseppe_Saragat,29-Dec-64,29-Dec-71,Italian Democratic Socialist Party
+Italy,6,Giovanni Leone,http://en.wikipedia.org/wiki/Giovanni_Leone,29-Dec-71,15-Jun-78,Christian Democracy
+Italy,7,Sandro Pertini,http://en.wikipedia.org/wiki/Sandro_Pertini,9-Jul-78,29-Jun-85,Italian Socialist Party
+Italy,8,Francesco Cossiga,,3-Jul-85,28-Apr-92,Christian Democracy
+Italy,9,Oscar Luigi Scalfaro,http://en.wikipedia.org/wiki/Oscar_Luigi_Scalfaro,28-May-92,15-May-99,Christian Democracy
+Italy,10,Carlo Azeglio Ciampi,http://en.wikipedia.org/wiki/Carlo_Azeglio_Ciampi,18-May-99,15-May-06,Independent
+Italy,11,Giorgio Napolitano,http://en.wikipedia.org/wiki/Giorgio_Napolitano,15-May-06,Incumbent,Democrats of the Left
+Turkey,1,Mustafa Kemal Atatürk,http://en.wikipedia.org/wiki/Mustafa_Kemal_Atat%C3%BCrk,29-Oct-23,10-Nov-38,Republican People's Party
+Turkey,2,?smet ?nönü,http://en.wikipedia.org/wiki/%C4%B0smet_%C4%B0n%C3%B6n%C3%BC,11-Nov-38,22-May-50,Republican People's Party
+Turkey,3,Celâl Bayar,http://en.wikipedia.org/wiki/Cel%C3%A2l_Bayar,22-May-50,27-May-60,Democrat Party
+Turkey,4,Cemal Gürsel,http://en.wikipedia.org/wiki/Cemal_G%C3%BCrsel,10-Oct-61,2-Feb-66,Independent
+Turkey,5,Cevdet Sunay,http://en.wikipedia.org/wiki/Cevdet_Sunay,28-Mar-66,28-Mar-73,Independent
+Turkey,6,Fahri Korutürk,http://en.wikipedia.org/wiki/Fahri_Korut%C3%BCrk,6-Apr-73,6-Apr-80,Independent
+Turkey,7,Kenan Evren,http://en.wikipedia.org/wiki/Kenan_Evren,9-Nov-82,9-Nov-89,Independent
+Turkey,8,Turgut Özal,http://en.wikipedia.org/wiki/Turgut_%C3%96zal,9-Nov-89,17-Apr-93,Motherland Party
+Turkey,9,Süleyman Demirel,http://en.wikipedia.org/wiki/S%C3%BCleyman_Demirel,16-May-93,16-May-00,True Path Party
+Turkey,10,Ahmet Necdet Sezer,http://en.wikipedia.org/wiki/Ahmet_Necdet_Sezer,16-May-00,28-Aug-07,Independent
+Turkey,11,Abdullah Gül,http://en.wikipedia.org/wiki/Abdullah_G%C3%BCl,28-Aug-07,Incumbent,Justice and Development Party
+Syria,1,Muhammad Ali al-Abid,http://en.wikipedia.org/wiki/Muhammad_Ali_al-Abid,27-Sep-36,21-Dec-36,Independent
+Syria,2,Hashim al-Atassi,http://en.wikipedia.org/wiki/Hashim_al-Atassi,21-Dec-36,7-Jul-39,National Bloc
+Syria,3,Bahij al-Khatib,http://en.wikipedia.org/wiki/Bahij_al-Khatib,10-Jul-39,4-Apr-41,Independent
+Syria,4,Taj al-Din al-Hasani,http://en.wikipedia.org/wiki/Taj_al-Din_al-Hasani,16-Sep-41,17-Jan-43,Independent
+Syria,5,Ata al-Ayyubi,http://en.wikipedia.org/wiki/Ata_al-Ayyubi,25-Mar-43,17-Aug-43,Independent
+Syria,6,Shukri al-Quwatli,http://en.wikipedia.org/wiki/Shukri_al-Quwatli,17-Aug-43,17-Apr-46,National Bloc
+Syria,7,Husni al-Za'im,http://en.wikipedia.org/wiki/Husni_al-Za%27im,30-Mar-49,14-Aug-49,Military
+Syria,8,Hashim al-Atassi,http://en.wikipedia.org/wiki/Hashim_al-Atassi,15-Aug-49,2-Dec-51,National Party
+Syria,9,Fawzi Selu,http://en.wikipedia.org/wiki/Fawzi_Selu,3-Dec-51,11-Jul-53,Military
+Syria,10,Adib Shishakli,http://en.wikipedia.org/wiki/Adib_Shishakli,11-Jul-53,25-Feb-54,Military
+Syria,11,Hashim al-Atassi,http://en.wikipedia.org/wiki/Hashim_al-Atassi,28-Feb-54,6-Sep-55,National Party
+Syria,12,Shukri al-Quwatli,http://en.wikipedia.org/wiki/Shukri_al-Quwatli,6-Sep-55,22-Feb-58,National Party
+Syria,13,Gamal Abdel Nasser,http://en.wikipedia.org/wiki/Gamal_Abdel_Nasser,22-Feb-58,29-Sep-61,National Union
+Syria,14,Nazim al-Kudsi,http://en.wikipedia.org/wiki/Nazim_al-Kudsi,14-Dec-61,8-Mar-63,People's Party
+Syria,15,Luai al-Atassi,http://en.wikipedia.org/wiki/Luai_al-Atassi,9-Mar-63,27-Jul-63,Military
+Syria,16,Amin al-Hafiz,http://en.wikipedia.org/wiki/Amin_al-Hafiz,27-Jul-63,23-Feb-66,Military
+Syria,17,Nureddin al-Atassi,http://en.wikipedia.org/wiki/Nureddin_al-Atassi,25-Feb-66,18-Nov-70,Military
+Syria,18,Hafez al-Assad,http://en.wikipedia.org/wiki/Hafez_al-Assad,22-Feb-71,10-Jun-00,Military
+Syria,19,Bashar al-Assad,http://en.wikipedia.org/wiki/Bashar_al-Assad,17-Jul-00,Incumbent,Syrian Ba'ath Party
+Iraq,1,Muhammad Najib ar-Ruba'i,http://en.wikipedia.org/wiki/Muhammad_Najib_ar-Ruba%27i,14-Jul-58,8-Feb-63,Military
+Iraq,2,Abdul Salam Arif,http://en.wikipedia.org/wiki/Abdul_Salam_Arif,8-Feb-63,13-Apr-66,Military
+Iraq,3,Abdul Rahman Arif,http://en.wikipedia.org/wiki/Abdul_Rahman_Arif,16-Apr-66,17-Jul-68,Military
+Iraq,4,Ahmed Hassan al-Bakr,http://en.wikipedia.org/wiki/Ahmed_Hassan_al-Bakr,17-Jul-68,16-Jul-79,Military
+Iraq,5,Saddam Hussein,http://en.wikipedia.org/wiki/Saddam_Hussein,16-Jul-79,9-Apr-03,Iraqi Ba'ath Party
+Iraq,6,Jalal Talabani,http://en.wikipedia.org/wiki/Jalal_Talabani,7-Apr-05,Incumbent,Patriotic Union of Kurdistan
+Iran,1,Abulhassan Banisadr,http://en.wikipedia.org/wiki/Abulhassan_Banisadr,4-Feb-80,22-Jun-81,Independent
+Iran,2,Mohammad-Ali Rajai,http://en.wikipedia.org/wiki/Mohammad-Ali_Rajai,2-Aug-81,30-Aug-81,Islamic Republican Party
+Iran,3,Ali Khamenei,,13-Oct-81,16-Aug-85,Islamic Republican Party
+Iran,4,Akbar Hashemi Rafsanjani,http://en.wikipedia.org/wiki/Akbar_Hashemi_Rafsanjani,3-Aug-89,3-Aug-93,Combatant Clergy Association
+Iran,5,Mohammad Khatami,,2-Aug-97,8-Aug-01,Association of Combatant Clerics
+Iran,6,Mahmoud Ahmadinejad,http://en.wikipedia.org/wiki/Mahmoud_Ahmadinejad,3-Aug-05,5-Aug-09,Alliance of Builders of Islamic Iran
+Iran,7,Hassan Rouhani,http://en.wikipedia.org/wiki/Hassan_Rouhani,3-Aug-13,Incumbent,Combatant Clergy Association
+Israel,1,Chaim Weizmann,http://en.wikipedia.org/wiki/Chaim_Weizmann,17-Feb-49,25-Nov-51,None
+Israel,2,Yitzhak Ben-Zvi,http://en.wikipedia.org/wiki/Yitzhak_Ben-Zvi,16-Dec-52,28-Oct-57,Mapai
+Israel,3,Zalman Shazar,http://en.wikipedia.org/wiki/Zalman_Shazar,21-May-63,26-Mar-68,Mapai
+Israel,4,Ephraim Katzir,,24-May-73,29-May-78,Alignment
+Israel,5,Yitzhak Navon,http://en.wikipedia.org/wiki/Yitzhak_Navon,29-May-78,5-May-83,Alignment
+Israel,6,Chaim Herzog,http://en.wikipedia.org/wiki/Chaim_Herzog,5-May-83,23-Feb-88,Alignment
+Israel,7,Ezer Weizman,http://en.wikipedia.org/wiki/Ezer_Weizman,13-May-93,4-Mar-98,Labor
+Israel,8,Moshe Katsav,http://en.wikipedia.org/wiki/Moshe_Katsav,1-Aug-00,1-Jul-07,Likud
+Israel,9,Shimon Peres,http://en.wikipedia.org/wiki/Shimon_Peres,15-Jul-07,Incumbent,Kadima
+Turkmenistan,1,Saparmurat Niyazov,http://en.wikipedia.org/wiki/Saparmurat_Niyazov,2-Nov-90,21-Dec-06,Communist Party of Turkmenistan
+Turkmenistan,2,Gurbanguly Berdimuhamedow,http://en.wikipedia.org/wiki/Gurbanguly_Berdimuhamedow,21-Dec-06,Incumbent,Democratic Party of Turkmenistan
+Afghanistan,1,Mohammed Daoud Khan,http://en.wikipedia.org/wiki/Mohammed_Daoud_Khan,17-Jul-73,27-Apr-78,Independent
+Afghanistan,2,Abdul Qadir Dagarwal,http://en.wikipedia.org/wiki/Abdul_Qadir_Dagarwal,27-Apr-78,30-Apr-78,People's Democratic Party
+Afghanistan,3,Nur Muhammad Taraki,http://en.wikipedia.org/wiki/Nur_Muhammad_Taraki,30-Apr-78,14-Sep-79,People's Democratic Party
+Afghanistan,4,Hafizullah Amin,http://en.wikipedia.org/wiki/Hafizullah_Amin,14-Sep-79,27-Dec-79,People's Democratic Party
+Afghanistan,5,Babrak Karmal,http://en.wikipedia.org/wiki/Babrak_Karmal,27-Dec-79,24-Nov-86,People's Democratic Party
+Afghanistan,6,Haji Mohammad Chamkani,http://en.wikipedia.org/wiki/Haji_Mohammad_Chamkani,24-Nov-86,30-Sep-87,Independent
+Afghanistan,7,Mohammad Najibullah,http://en.wikipedia.org/wiki/Mohammad_Najibullah,30-Sep-87,30-Nov-87,People's Democratic Party
+Afghanistan,8,Abdul Rahim Hatef,http://en.wikipedia.org/wiki/Abdul_Rahim_Hatef,16-Apr-92,28-Apr-92,Democratic Watan Party
+Afghanistan,9,Sibghatullah Mojaddedi,http://en.wikipedia.org/wiki/Sibghatullah_Mojaddedi,28-Apr-92,28-Jun-92,National Liberation Front of Afghanistan
+Afghanistan,10,Burhanuddin Rabbani,http://en.wikipedia.org/wiki/Burhanuddin_Rabbani,28-Jun-92,27-Sep-96,Jamiat-e Islami
+Afghanistan,11,Mullah Mohammed Omar,,27-Sep-96,13-Nov-01,Taliban
+Afghanistan,12,Hamid Karzai,http://en.wikipedia.org/wiki/Hamid_Karzai,22-Dec-01,Incumbent,Independent
